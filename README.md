@@ -1,7 +1,9 @@
-# Ducks
-<body
-  <img <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/0826546d-5d77-42cb-b62e-29907d3d7f5a" />
-  <img {100ps}
-  '#008080
-  <img {100ps}>
-  
+<html>
+
+<body>
+  <h1>Iciel</h1>
+  <p>Welcome to my website!</p>
+  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
+</body>
+
+</html>
